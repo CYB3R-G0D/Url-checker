@@ -2,7 +2,7 @@
 Allows you to analyze tackers and parameters of an URL before opening them.
 
 [![version](https://img.shields.io/github/v/release/CYB3R-G0D/Url-checker)](https://github.com/CYB3R-G0D/Url-checker/releases/tag/v0.1.0)
-[![download](https://img.shields.io/github/downloads/CYB3R-G0D/Url-checker/v0.1.0/tota)](https://github.com/CYB3R-G0D/Url-checker/releases/)
+[![download](https://img.shields.io/github/downloads/cyb3r-g0d/Url-checker/total)](https://github.com/CYB3R-G0D/Url-checker/releases/)
 
 ## App Preview
 
