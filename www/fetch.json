@@ -1,0 +1,52 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@^1.3.4"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-support-android-plugin": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-support-android-plugin@~1.0.0"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-x-socialsharing": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-x-socialsharing"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "es6-promise-plugin": {
+        "source": {
+            "type": "registry",
+            "id": "es6-promise-plugin@^4.1.0"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-customurlscheme": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-customurlscheme@^5.0.2"
+        },
+        "is_top_level": true,
+        "variables": {
+            "URL_SCHEME": "https"
+        }
+    },
+    "cordova-plugin-x-toast": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-x-toast"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
