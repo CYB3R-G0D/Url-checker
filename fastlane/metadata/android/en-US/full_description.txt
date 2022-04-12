@@ -1,0 +1,1 @@
+URL Checker allows you to remove unnecessary bits from web URLs, such as tracking code and other variables before opening them.

@@ -1,0 +1,1 @@
+App to analyze tackers and parameters of an URL before opening them.
