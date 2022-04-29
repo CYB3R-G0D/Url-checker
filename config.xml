@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.cyb3rg0d.urlchecker" version="0.1.0" android-versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.cyb3rg0d.urlchecker" version="0.1.5" android-versionCode="2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Url Checker</name>
     <description>
         Allows you to quickly removing unnecessary bits from urls.
@@ -10,6 +10,7 @@
     <preference name="AndroidXEnabled" value="true" />
     <content src="index.html" />
     <access origin="*" />
+    <allow-navigation href="*"/>
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />

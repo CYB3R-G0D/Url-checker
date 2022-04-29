@@ -1,3 +1,7 @@
+document.getElementById("finalLink").addEventListener("change", onChangeUrl);
+function onChangeUrl() {
+    handleOpenURL(document.getElementById('finalLink').value)
+}
 function handleOpenURL(url) {
     var modal = document.getElementById("myModal");
     var span = document.getElementsByClassName("close")[0];
@@ -240,6 +244,8 @@ function handleOpenURL(url) {
     }
     if (lessSecure != 'https:') {
         document.getElementById('noHttps').style.display = 'block';
+    } else {
+        document.getElementById('noHttps').style.display = 'none';
     }
     document.getElementById('httpsFix').addEventListener('click', (e) => {
         let notHttps = document.getElementById('finalLink').value
